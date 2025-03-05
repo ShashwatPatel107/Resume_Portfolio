@@ -34,10 +34,10 @@ I have a strong grasp of data analytics techniques such dashboard design, report
 
 
 
-## CERTIFICATIONS:
+## 📜 CERTIFICATIONS:
 
 
-## EDUCATION:
+## 🎓 EDUCATION:
 
 
 ## 📫 GET IN TOUCH:
