@@ -4,8 +4,7 @@ Welcome to my Portfolio! 🚀 Here, you'll find a collection of my projects, ski
 
 
 ## 📌ABOUT ME
-I have expertly support business decisions by gathering, organizing, and analyzing large scale data utilizing a variety of tools and technologies. 
-I have a strong grasp of data analytics techniques such dashboard design, report authoring, data mining, data merging, statistics, and critical thinking. I am also fluent in Python, R, SQL, Excel, Power BI, and Tableau.
+I have a proven track record of supporting business decisions through the expert gathering, organization, analysis, and visualization of large-scale data, leveraging a diverse range of tools and technologies. My expertise extends to a comprehensive understanding of data analytics techniques, encompassing data mapping, cleansing, validation, processing, mining, merging, statistical analysis, dashboard design, report authoring, and critical thinking. I am highly proficient in Python, R, SQL, Excel, Power BI, and Tableau. Furthermore, I have practical experience in technical and business writing, contributing to the development of BRD, FRD, and SRS documentation. I am also well-versed in the end-to-end Software Development Life Cycle (SDLC) using Agile and Scrum methodologies.
 
 ## 🚀 Featured Projects
 
