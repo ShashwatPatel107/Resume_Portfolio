@@ -32,11 +32,12 @@ I have a proven track record of supporting business decisions through the expert
 
 
 
-
 ## 📜 CERTIFICATIONS:
 
 
 ## 🎓 EDUCATION:
+**Master of Artificial Intelligence**: Illinois Institute of Technology (Chicago, IL) ​​​ (Expected Graduate)
+**Bachelor of Science (Computer Science):** Northern Illinois University (DeKalb, IL) ​
 
 
 ## 📫 GET IN TOUCH:
