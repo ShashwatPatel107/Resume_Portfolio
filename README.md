@@ -37,13 +37,15 @@ I have a proven track record of supporting business decisions through the expert
 
 ## 🎓 EDUCATION:
 **Master of Artificial Intelligence**: Illinois Institute of Technology (Chicago, IL) ​​​ (Expected Graduate)
+
 **Bachelor of Science (Computer Science):** Northern Illinois University (DeKalb, IL) ​
 
 
 ## 📫 GET IN TOUCH:
-Email:
+Email: shashwatpatel000@gmail.com
 Phone:
-Linkedin:
-Github:
-Medium:
+Linkedin: https://linkedin.com/in/shashwat-patel107
+Github: https://github.com/ShashwatPatel107
+Medium: https://medium.com/@shashwatpatel107
+Location: Chicago, IL
 
