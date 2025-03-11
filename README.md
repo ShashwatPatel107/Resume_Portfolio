@@ -41,3 +41,9 @@ I have a proven track record of supporting business decisions through the expert
 
 
 ## 📫 GET IN TOUCH:
+Email:
+Phone:
+Linkedin:
+Github:
+Medium:
+
