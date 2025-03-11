@@ -43,9 +43,14 @@ I have a proven track record of supporting business decisions through the expert
 
 ## 📫 GET IN TOUCH:
 Email: shashwatpatel000@gmail.com
+
 Phone:
+
 Linkedin: https://linkedin.com/in/shashwat-patel107
+
 Github: https://github.com/ShashwatPatel107
+
 Medium: https://medium.com/@shashwatpatel107
+
 Location: Chicago, IL
 
