@@ -1,6 +1,6 @@
 # 💼 Portfolio - SHASHWAT PATEL
 
-Welcome to my GitHub portfolio! 🚀 Here, you'll find a collection of my projects, skills, and experiences in data analysis, business intelligence, and machine learning.
+Welcome to my Portfolio! 🚀 Here, you'll find a collection of my projects, skills, and experiences in data analysis, business intelligence, and machine learning.
 
 
 ## 📌ABOUT ME
