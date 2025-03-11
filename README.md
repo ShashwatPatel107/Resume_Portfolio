@@ -32,7 +32,7 @@ I have a proven track record of supporting business decisions through the expert
 
 
 
-## 📜 CERTIFICATIONS:
+## 📜 🔖CERTIFICATIONS:
 
 
 ## 🎓 EDUCATION:
@@ -40,7 +40,7 @@ I have a proven track record of supporting business decisions through the expert
 
 **Bachelor of Science (Computer Science):** Northern Illinois University (DeKalb, IL) ​
 
-
+## RESUME:
 ## 📫 GET IN TOUCH:
 Email: shashwatpatel000@gmail.com
 
