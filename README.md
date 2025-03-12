@@ -33,7 +33,11 @@ I have a proven track record of supporting business decisions through the expert
 
 
 ## 📜 🔖CERTIFICATIONS:
+Machine Learning Masters, Edureka​​​​​​​​​
 
+Google Data Analytics, Google​​​​​​​​​​​
+
+Data Science and Machine Learning Bootcamp, Jovian
 
 ## 🎓 EDUCATION:
 **Master of Artificial Intelligence**: Illinois Institute of Technology (Chicago, IL) ​​​ (Expected Graduate)
