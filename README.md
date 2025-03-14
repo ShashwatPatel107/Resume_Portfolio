@@ -8,6 +8,12 @@ I have a proven track record of supporting business decisions through the expert
 
 ## 🚀 Featured Projects
 
+https://github.com/ShashwatPatel107/Exploratory-Data-Analysis-EDA
+
+https://github.com/ShashwatPatel107/Web-Scraping-Dynamic-website-using-Selenium
+
+https://github.com/ShashwatPatel107/PubG_Placement_Prediction
+
 ## 💡 Skills & Technologies:
 **Programming Language:** Python, SAS, SQL, XML, C/C++, HTML, JavaScript
 
