@@ -33,30 +33,29 @@ I'm passionate about harnessing data to solve real-world problems and am always 
 [PubG Placement Prediction](https://github.com/ShashwatPatel107/PubG_Placement_Prediction)
 
 ## 💡 Skills & Technologies:
-**Programming Language:** Python, SAS, SQL, XML, C/C++, HTML, JavaScript
+** Programming Languages** : Python, SQL, C/C++
 
-**Database:** MySQL, Microsoft SQL Server, PostgreSQL, AWS S3, Redshift, Access
+** Databases** : MySQL, SQL Server, PostgreSQL, AWS S3, Redshift, Snowflake
 
-**Machine Learning:** Scikit-learn, TensorFlow, NLP, Time Series Analysis
+** Libraries/Frameworks** : Pandas, Polars, NumPy, Scikit-learn, PySpark, Seaborn, Matplotlib, Plotly, Folium
 
-**Data Analysis & Visualization Tools:** NumPy, Pandas, Polars, Seaborn, Matplotlib, Plotly, Folium, Tableau, Power BI
+** Visualization** : Tableau, Power BI
 
-**Libraries:** PySpark, Flask, Selenium
+** Cloud & Web Services** : AWS, Google Cloud Platform, Microsoft Azure
 
-**Project Management Tools:** Jira, Microsoft Project, Microsoft Power Automate
+** Project & Workflow** : Jira, Git/GitHub, Agile/Scrum
 
-**Web services:** AWS, Google Cloud Platform, Microsoft Azure
+** Other** : Microsoft 365, Probability & Statistics, Statistical Modeling, A/B Testing, UAT
 
-**Methodology:**  Software Development Life Cycle (SDLC), Agile, Scrum
-
-**Data Science/ Engineering Skills:** Machine Learning, Probability & Statistics, Statistical Modeling
-
-**Version Control & Tools:** Git, GitHub, Microsoft 365 (Word, Excel, Access, PowerPoint, Visio, SharePoint), Jupyter Notebook, Docker
+** Soft Skills** : Collaboration, Stakeholder engagement, Communication, Leadership
 
 
 
 
 ## 📜 🔖CERTIFICATIONS:
+
+Generative AI Mastermind, OutSkill
+
 Machine Learning Masters, Edureka​​​​​​​​​
 
 Google Data Analytics, Google​​​​​​​​​​​
