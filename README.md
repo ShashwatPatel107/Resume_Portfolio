@@ -33,21 +33,21 @@ I'm passionate about harnessing data to solve real-world problems and am always 
 [PubG Placement Prediction](https://github.com/ShashwatPatel107/PubG_Placement_Prediction)
 
 ## 💡 Skills & Technologies:
-** Programming Languages** : Python, SQL, C/C++
+**Programming Languages** : Python, SQL, C/C++
 
-** Databases** : MySQL, SQL Server, PostgreSQL, AWS S3, Redshift, Snowflake
+**Databases** : MySQL, SQL Server, PostgreSQL, AWS S3, Redshift, Snowflake
 
-** Libraries/Frameworks** : Pandas, Polars, NumPy, Scikit-learn, PySpark, Seaborn, Matplotlib, Plotly, Folium
+**Libraries/Frameworks** : Pandas, Polars, NumPy, Scikit-learn, PySpark, Seaborn, Matplotlib, Plotly, Folium
 
-** Visualization** : Tableau, Power BI
+**Visualization** : Tableau, Power BI
 
-** Cloud & Web Services** : AWS, Google Cloud Platform, Microsoft Azure
+**Cloud & Web Services** : AWS, Google Cloud Platform, Microsoft Azure
 
-** Project & Workflow** : Jira, Git/GitHub, Agile/Scrum
+**Project & Workflow** : Jira, Git/GitHub, Agile/Scrum
 
-** Other** : Microsoft 365, Probability & Statistics, Statistical Modeling, A/B Testing, UAT
+**Other** : Microsoft 365, Probability & Statistics, Statistical Modeling, A/B Testing, UAT
 
-** Soft Skills** : Collaboration, Stakeholder engagement, Communication, Leadership
+**Soft Skills** : Collaboration, Stakeholder engagement, Communication, Leadership
 
 
 
