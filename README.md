@@ -71,7 +71,7 @@ Data Science and Machine Learning Bootcamp, Jovian
 ## 📫 GET IN TOUCH:
 Email: shashwatpatel000@gmail.com
 
-Phone:
+Phone: [+1 (331)308-0240](tel:+13313080240)
 
 Linkedin: https://linkedin.com/in/shashwat-patel107
 
