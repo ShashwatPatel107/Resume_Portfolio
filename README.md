@@ -1,6 +1,6 @@
 # 💼 Portfolio - SHASHWAT PATEL
 
-Welcome to my Portfolio! 🚀 Here, you'll find a collection of my projects, skills, and experiences in data analysis, business intelligence, and machine learning.
+SHASHWAT PATEL | Data & AI Portfolio! 🚀 Transforming Complex Data into Actionable Strategies & Quantifiable Business Impact.
 
 
 ## 📌ABOUT ME
