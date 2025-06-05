@@ -25,12 +25,16 @@ I'm passionate about harnessing data to solve real-world problems and am always 
 ## 🚀 Featured Projects
 
 [Exploratory Data Analysis](https://github.com/ShashwatPatel107/Exploratory-Data-Analysis-EDA)
+A data-driven analytical project focusing on discovering patterns, spotting anomalies, and testing hypotheses using visualization and statistical summaries.
 
 
 [Dynamic Webscraping Using Selenium](https://github.com/ShashwatPatel107/Web-Scraping-Dynamic-website-using-Selenium)
+A practical project showcasing automated data extraction from dynamically rendered web pages using Python and Selenium.
 
 
 [PubG Placement Prediction](https://github.com/ShashwatPatel107/PubG_Placement_Prediction)
+A complete machine learning pipeline project for predicting player placement in PUBG matches using real-world game data and statistical modeling techniques.
+
 
 ## 💡 Skills & Technologies:
 **Programming Languages** : Python, SQL, C/C++
