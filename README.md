@@ -4,7 +4,23 @@ Welcome to my Portfolio! 🚀 Here, you'll find a collection of my projects, ski
 
 
 ## 📌ABOUT ME
-I have a proven track record of supporting business decisions through the expert gathering, organization, analysis, and visualization of large-scale data, leveraging a diverse range of tools and technologies. My expertise extends to a comprehensive understanding of data analytics techniques, encompassing data mapping, cleansing, validation, processing, mining, merging, statistical analysis, dashboard design, report authoring, and critical thinking. I have gained valuable experience across a range of industries, including Supply Chain, Retail, Warehouse, Finance, Banking, and Healthcare, enabling me to provide data-driven insights tailored to specific business needs. I am highly proficient in Python, R, SQL, Excel, Power BI, and Tableau. Furthermore, I have practical experience in technical and business writing, contributing to the development of BRD, FRD, and SRS documentation. I am also well-versed in the end-to-end Software Development Life Cycle (SDLC) using Agile and Scrum methodologies.
+As a Data Analyst with over 5 years of experience across aviation, finance, healthcare, and retail sectors, I specialize in converting complex data into actionable strategies. My expertise lies in leveraging tools like SQL, Python, Tableau, and Power BI to uncover insights that drive decision-making and operational efficiency.
+
+Key Achievements:
+
+- Driving $100K in profitability by forecasting recovery performance through sophisticated AWS and 
+ SQL-driven analytics.
+
+- Reducing charge-offs by 12% and boosting customer retention by 5% by developing predictive 
+ models with 95% accuracy in Python.
+
+- Streamlining reporting cycles by 30% through comprehensive automation and enhanced ETL 
+ processes on platforms like Snowflake and AWS Redshift.
+
+- Achieving a 20% enhancement in campaign precision by implementing advanced A/B testing and 
+ UAT analytics pipelines.
+
+I'm passionate about harnessing data to solve real-world problems and am always eager to connect with professionals who share this enthusiasm. Let's connect and explore how data can drive innovation and success.
 
 ## 🚀 Featured Projects
 
