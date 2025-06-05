@@ -73,7 +73,7 @@ Email: shashwatpatel000@gmail.com
 
 Phone: [+1 (331)308-0240](tel:+13313080240)
 
-Linkedin: https://linkedin.com/in/shashwat-patel107
+Linkedin: [https://linkedin.com/in/shashwat-patel000](https://www.linkedin.com/in/shashwat-patel000/)
 
 Github: https://github.com/ShashwatPatel107
 
